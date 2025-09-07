@@ -1,0 +1,23 @@
+{
+  "name": "hillel_automation_qa_classes",
+  "version": "1.0.0",
+  "description": "It's test project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node js_intro/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olena-Salnikova/hillel_automation_qa_classes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olena-Salnikova/hillel_automation_qa_classes/issues"
+  },
+  "homepage": "https://github.com/Olena-Salnikova/hillel_automation_qa_classes#readme",
+  "dependencies": {
+    "chalk": "^5.6.0"
+  }
+}
